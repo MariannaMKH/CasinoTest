@@ -1,0 +1,15 @@
+D:\Projects\Casino\CasinoProj\CasinoDal\bin\Debug\CasinoDal.dll
+D:\Projects\Casino\CasinoProj\CasinoDal\bin\Debug\CasinoDal.pdb
+D:\Projects\Casino\CasinoProj\CasinoDal\bin\Debug\CasinoEL.dll
+D:\Projects\Casino\CasinoProj\CasinoDal\bin\Debug\CasinoEL.pdb
+D:\Projects\Casino\CasinoProj\CasinoDal\obj\Debug\CasinoDal.csprojAssemblyReference.cache
+D:\Projects\Casino\CasinoProj\CasinoDal\obj\Debug\CasinoDal.csproj.CoreCompileInputs.cache
+D:\Projects\Casino\CasinoProj\CasinoDal\obj\Debug\CasinoDal.csproj.CopyComplete
+D:\Projects\Casino\CasinoProj\CasinoDal\obj\Debug\CasinoDal.dll
+D:\Projects\Casino\CasinoProj\CasinoDal\obj\Debug\CasinoDal.pdb
+D:\Projects\Casino\CasinoProj\CasinoDal\bin\Debug\EntityFramework.dll
+D:\Projects\Casino\CasinoProj\CasinoDal\bin\Debug\CasinoEL.dll.config
+D:\Projects\Casino\CasinoProj\CasinoDal\bin\Debug\EntityFramework.xml
+D:\Projects\Casino\CasinoProj\CasinoDal\bin\Debug\CasinoDal.dll.config
+D:\Projects\Casino\CasinoProj\CasinoDal\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Casino\CasinoProj\CasinoDal\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\Casino\\CasinoProj\\InterfaceBLL\\InterfaceBLL.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\Casino\\CasinoProj\\CasinoBLL\\CasinoBLL.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Casino\\CasinoProj\\CasinoBLL\\CasinoBLL.csproj",
+        "projectName": "CasinoBLL",
+        "projectPath": "D:\\Projects\\Casino\\CasinoProj\\CasinoBLL\\CasinoBLL.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Projects\\Casino\\CasinoProj\\CasinoDal\\CasinoDal.csproj": {
+                "projectPath": "D:\\Projects\\Casino\\CasinoProj\\CasinoDal\\CasinoDal.csproj"
+              },
+              "D:\\Projects\\Casino\\CasinoProj\\CasinoEL\\CasinoEL.csproj": {
+                "projectPath": "D:\\Projects\\Casino\\CasinoProj\\CasinoEL\\CasinoEL.csproj"
+              },
+              "D:\\Projects\\Casino\\CasinoProj\\Common\\Common.csproj": {
+                "projectPath": "D:\\Projects\\Casino\\CasinoProj\\Common\\Common.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Projects\\Casino\\CasinoProj\\CasinoDal\\CasinoDal.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Casino\\CasinoProj\\CasinoDal\\CasinoDal.csproj",
+        "projectName": "CasinoDal",
+        "projectPath": "D:\\Projects\\Casino\\CasinoProj\\CasinoDal\\CasinoDal.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Projects\\Casino\\CasinoProj\\CasinoEL\\CasinoEL.csproj": {
+                "projectPath": "D:\\Projects\\Casino\\CasinoProj\\CasinoEL\\CasinoEL.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Projects\\Casino\\CasinoProj\\CasinoEL\\CasinoEL.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Casino\\CasinoProj\\CasinoEL\\CasinoEL.csproj",
+        "projectName": "CasinoEL",
+        "projectPath": "D:\\Projects\\Casino\\CasinoProj\\CasinoEL\\CasinoEL.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Projects\\Casino\\CasinoProj\\Common\\Common.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Casino\\CasinoProj\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "D:\\Projects\\Casino\\CasinoProj\\Common\\Common.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Projects\\Casino\\CasinoProj\\InterfaceBLL\\InterfaceBLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Casino\\CasinoProj\\InterfaceBLL\\InterfaceBLL.csproj",
+        "projectName": "InterfaceBLL",
+        "projectPath": "D:\\Projects\\Casino\\CasinoProj\\InterfaceBLL\\InterfaceBLL.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Casino\\CasinoProj\\InterfaceBLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Projects\\Casino\\CasinoProj\\CasinoBLL\\CasinoBLL.csproj": {
+                "projectPath": "D:\\Projects\\Casino\\CasinoProj\\CasinoBLL\\CasinoBLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

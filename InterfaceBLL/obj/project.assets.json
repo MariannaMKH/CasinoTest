@@ -1,0 +1,142 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CasinoBLL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "CasinoDal": "1.0.0",
+          "CasinoEL": "1.0.0",
+          "Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CasinoBLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CasinoBLL.dll": {}
+        }
+      },
+      "CasinoDal/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "CasinoEL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CasinoDal.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CasinoDal.dll": {}
+        }
+      },
+      "CasinoEL/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CasinoEL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CasinoEL.dll": {}
+        }
+      },
+      "Common/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CasinoBLL/1.0.0": {
+      "type": "project",
+      "path": "../CasinoBLL/CasinoBLL.csproj",
+      "msbuildProject": "../CasinoBLL/CasinoBLL.csproj"
+    },
+    "CasinoDal/1.0.0": {
+      "type": "project",
+      "path": "../CasinoDal/CasinoDal.csproj",
+      "msbuildProject": "../CasinoDal/CasinoDal.csproj"
+    },
+    "CasinoEL/1.0.0": {
+      "type": "project",
+      "path": "../CasinoEL/CasinoEL.csproj",
+      "msbuildProject": "../CasinoEL/CasinoEL.csproj"
+    },
+    "Common/1.0.0": {
+      "type": "project",
+      "path": "../Common/Common.csproj",
+      "msbuildProject": "../Common/Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CasinoBLL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ACER\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Projects\\Casino\\CasinoProj\\InterfaceBLL\\InterfaceBLL.csproj",
+      "projectName": "InterfaceBLL",
+      "projectPath": "D:\\Projects\\Casino\\CasinoProj\\InterfaceBLL\\InterfaceBLL.csproj",
+      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\Casino\\CasinoProj\\InterfaceBLL\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "D:\\Projects\\Casino\\CasinoProj\\CasinoBLL\\CasinoBLL.csproj": {
+              "projectPath": "D:\\Projects\\Casino\\CasinoProj\\CasinoBLL\\CasinoBLL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
